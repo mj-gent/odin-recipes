@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(165, 135, 102);
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    word-wrap: normal;
+    color: rgb(0, 0, 0);
+    text-shadow: 1px 0px rgb(134, 101, 78);
+}
+
+a {
+    color: aquamarine;
+    font-size: 24px;
+    text-shadow: 1px 1px black;
+}
+
+h1, h2 {
+    color:rgb(249, 157, 10);
+    text-shadow: 2px 2px rgb(134, 101, 78);
+}
+
+li {
+    list-style-position: inside;
+}
